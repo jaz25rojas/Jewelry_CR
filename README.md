@@ -1,24 +1,18 @@
-# Jewelry_CR
+# 📌 Description
+This is a **Salesforce DX application** designed to manage jewelry inventory, sales, and customer data. It includes custom objects, Lightning components, and Apex classes to support a complete CRM experience for jewelry businesses.
 
-## Descripción
-This is an application developed using Salesforce DX to manage jewelry inventory.
+## 🖼️ Screenshot
+![Screenshot of Jewelry_CR App](screenshot.png)
 
-With this app, you can:
+## 🛠 Requirements
+To run this project locally or deploy it to Salesforce, you'll need:
+- A free [Salesforce Developer Edition](https://developer.salesforce.com/ )
+- [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli )
+- Git installed ([Download Git](https://git-scm.com/ ))
 
-Register jewelry products
-Manage customers and sales orders
-Use Lightning Components to display key information
+## 🚀 Installation Instructions
 
-
-## Requirements
-Requirements
-To run this project, you'll need:
-
-A Salesforce Developer Edition account[Salesforce Developer Edition](https://developer.salesforce.com/ )
-Salesforce CLI installed  [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli )
-
-
-## Installation
-Clone this repository
-   ```bash
-   git clone https://github.com/jaz25rojas/Jewelry_CR.git 
+### 1. Clone this repository:
+```bash
+git clone https://github.com/jaz25rojas/Jewelry_CR.git 
+cd Jewelry_CR
