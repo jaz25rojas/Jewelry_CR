@@ -1,3 +1,5 @@
+![Logo](rose-logo.png)
+
 # 📌 Description
 This is a **Salesforce DX application** designed to manage jewelry inventory, sales, and customer data. It includes custom objects, Lightning components, and Apex classes to support a complete CRM experience for jewelry businesses.
 
