@@ -9,10 +9,8 @@ Register jewelry products
 Manage customers and sales orders
 Use Lightning Components to display key information
 
-## Captura de Pantalla
-![Captura de Pantalla](screenshot.png)
 
-## Requisitos
+## Requirements
 Requirements
 To run this project, you'll need:
 
