@@ -1,9 +1,6 @@
 # 📌 Description
 This is a **Salesforce DX application** designed to manage jewelry inventory, sales, and customer data. It includes custom objects, Lightning components, and Apex classes to support a complete CRM experience for jewelry businesses.
 
-## 🖼️ Screenshot
-![Screenshot of Jewelry_CR App](screenshot.png)
-
 ## 🛠 Requirements
 To run this project locally or deploy it to Salesforce, you'll need:
 - A free [Salesforce Developer Edition](https://developer.salesforce.com/ )
