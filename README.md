@@ -8,7 +8,7 @@ To run this project locally or deploy it to Salesforce, you'll need:
 - Git installed ([Download Git](https://git-scm.com/ ))
 
 ## 🚀 Installation Instructions
-
+https://trailhead.salesforce.com/content/learn/projects/quick-start-salesforce-dx?trailmix_creator_id=swolter&trailmix_slug=sfdx-git-hub-and-visual-studio-code 
 ### 1. Clone this repository:
 
 ```bash
