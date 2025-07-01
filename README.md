@@ -13,3 +13,4 @@ To run this project locally or deploy it to Salesforce, you'll need:
 ```bash
 git clone https://github.com/jaz25rojas/Jewelry_CR.git 
 cd Jewelry_CR
+https://trailhead.salesforce.com/content/learn/projects/quick-start-salesforce-dx?trailmix_creator_id=swolter&trailmix_slug=sfdx-git-hub-and-visual-studio-code
