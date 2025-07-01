@@ -1,18 +1,26 @@
-# Salesforce DX Project: Next Steps
+# Jewelry_CR
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Descripción
+This is an application developed using Salesforce DX to manage jewelry inventory.
 
-## How Do You Plan to Deploy Your Changes?
+With this app, you can:
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+Register jewelry products
+Manage customers and sales orders
+Use Lightning Components to display key information
 
-## Configure Your Salesforce DX Project
+## Captura de Pantalla
+![Captura de Pantalla](screenshot.png)
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## Requisitos
+Requirements
+To run this project, you'll need:
 
-## Read All About It
+A Salesforce Developer Edition account[Salesforce Developer Edition](https://developer.salesforce.com/ )
+Salesforce CLI installed  [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli )
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+## Installation
+Clone this repository
+   ```bash
+   git clone https://github.com/jaz25rojas/Jewelry_CR.git 
